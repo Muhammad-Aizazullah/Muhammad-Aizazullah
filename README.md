@@ -54,16 +54,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Muhammad-Aizazullah&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Muhammad-Aizazullah&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Aizazullah&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
 ## 📈 Activity Graph
 
 [![Aizaz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Aizazullah&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
