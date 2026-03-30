@@ -60,9 +60,9 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Activity Graph
 
-![](https://github-profile-trophy.vercel.app/?username=Muhammad-Aizazullah&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![Aizaz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Aizazullah&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
